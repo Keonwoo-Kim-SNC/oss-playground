@@ -1,0 +1,4 @@
+# mock_ems.py uses the built-in 'socket' module, so no external packages are needed.
+
+# mock_bss.py requires 'requests' for HTTP communication.
+requests==2.31.0
